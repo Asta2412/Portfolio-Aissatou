@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 document.addEventListener("DOMContentLoaded", function () {
-    const words = ["Référent Digital", "Développeuse Web", "Social Media", "UI/UX Design", "Graphic Designer"];
+    const words = ["Référente Digital", "Développeuse Web", "Social Media", "UI/UX Designer", "Graphic Designer"];
     let wordIndex = 0;
     let charIndex = 0;
     let currentText = "";
